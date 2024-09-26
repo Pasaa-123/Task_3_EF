@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kerol\\source\\repos\\scaffolding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1ABBDE-87AB-44C2-BE5D-0591B242DD43}|scaffolding\\scaffolding.csproj|c:\\users\\kerol\\source\\repos\\scaffolding\\scaffolding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1ABBDE-87AB-44C2-BE5D-0591B242DD43}|scaffolding\\scaffolding.csproj|solutionrelative:scaffolding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1ABBDE-87AB-44C2-BE5D-0591B242DD43}|scaffolding\\scaffolding.csproj|c:\\users\\kerol\\source\\repos\\scaffolding\\scaffolding\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1ABBDE-87AB-44C2-BE5D-0591B242DD43}|scaffolding\\scaffolding.csproj|solutionrelative:scaffolding\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1ABBDE-87AB-44C2-BE5D-0591B242DD43}|scaffolding\\scaffolding.csproj|c:\\users\\kerol\\source\\repos\\scaffolding\\scaffolding\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1ABBDE-87AB-44C2-BE5D-0591B242DD43}|scaffolding\\scaffolding.csproj|solutionrelative:scaffolding\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1ABBDE-87AB-44C2-BE5D-0591B242DD43}|scaffolding\\scaffolding.csproj|c:\\users\\kerol\\source\\repos\\scaffolding\\scaffolding\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1ABBDE-87AB-44C2-BE5D-0591B242DD43}|scaffolding\\scaffolding.csproj|solutionrelative:scaffolding\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1ABBDE-87AB-44C2-BE5D-0591B242DD43}|scaffolding\\scaffolding.csproj|c:\\users\\kerol\\source\\repos\\scaffolding\\scaffolding\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1ABBDE-87AB-44C2-BE5D-0591B242DD43}|scaffolding\\scaffolding.csproj|solutionrelative:scaffolding\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\kerol\\source\\repos\\scaffolding\\scaffolding\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "scaffolding\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\kerol\\source\\repos\\scaffolding\\scaffolding\\Models\\Category.cs",
+              "RelativeToolTip": "scaffolding\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:39:25.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\kerol\\source\\repos\\scaffolding\\scaffolding\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "scaffolding\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\kerol\\source\\repos\\scaffolding\\scaffolding\\Models\\Product.cs",
+              "RelativeToolTip": "scaffolding\\Models\\Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:21:20.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\kerol\\source\\repos\\scaffolding\\scaffolding\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "scaffolding\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\kerol\\source\\repos\\scaffolding\\scaffolding\\Models\\Order.cs",
+              "RelativeToolTip": "scaffolding\\Models\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:10:13.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kerol\\source\\repos\\scaffolding\\scaffolding\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "scaffolding\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kerol\\source\\repos\\scaffolding\\scaffolding\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "scaffolding\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:55:33.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kerol\\source\\repos\\scaffolding\\scaffolding\\Program.cs",
+              "RelativeDocumentMoniker": "scaffolding\\Program.cs",
+              "ToolTip": "C:\\Users\\kerol\\source\\repos\\scaffolding\\scaffolding\\Program.cs",
+              "RelativeToolTip": "scaffolding\\Program.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:18:07.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
